@@ -10,7 +10,7 @@ A laptop running a typical desktop operating system is more than capable of bein
 
 When we reduce a laptop to being a keyboard, a screen, and a storage device, without any other functionality we dramatically reduce the amount of computing power required while still satisfying all of the drawbacks of a mechanical typewriter.
 
-If the TypewriterOS is created independent from any specific hardware configuration opportunities are created to make smaller, lighter, more energy efficient, low cost and potentially recycled machines that are very capable for the common task of writing.
+If the TypewriterOS is created independent from any specific hardware configuration, opportunities are created to make smaller, lighter, more energy efficient, low cost and potentially recycled machines that are very capable for the common task of writing.
 
 ## Goal
 To create a bootable text editor that will work with computing devices that have the following minimum peripheral hardware:
