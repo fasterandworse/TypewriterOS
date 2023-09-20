@@ -24,4 +24,3 @@ SECTIONS {
 		*(.bss)					/* all bss sections from all files */
 	}
 }
-
